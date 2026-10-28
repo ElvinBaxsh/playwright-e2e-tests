@@ -7,7 +7,7 @@ UI and API test automation with **Playwright** and **TypeScript**.
 - **UI tests:** [Sauce Demo](https://www.saucedemo.com), an e-commerce demo store, on Chromium, Firefox and WebKit (Safari engine)
 - **API tests:** [Automation Exercise](https://automationexercise.com/api_list) public REST API
 
-The same scenarios are also automated with Cypress: [cypress-e2e-tests](https://github.com/ElvinBaxsh/cypress-e2e-tests).
+The same scenarios are also automated with [Cypress](https://github.com/ElvinBaxsh/cypress-e2e-tests) and [Selenium + BrowserStack](https://github.com/ElvinBaxsh/selenium-browserstack-tests).
 
 ## What is covered
 
